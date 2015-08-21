@@ -62,3 +62,20 @@ div.gatoflaco{
     background-color: blue;
     position: relative;
 }
+img.fondo1{
+    width:100%;
+    height: auto
+    ;
+    
+}
+img.gif1{
+    margin-left:-90%;
+    width:60%;
+    height:auto;
+}
+.gif2{
+    transition:all 3s;
+    margin-left:130%;
+    width:60%;
+    height:auto;  
+}
