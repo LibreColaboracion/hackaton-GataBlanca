@@ -17,39 +17,48 @@ div#titulo{
   	margin-top: 5px;
 
   }
-
-
 div#contenedor{
-	width: 100%;
-	margin:auto;
-	position: relative;
-	overflow: scroll;
-
-
+   background-color:red;
+    min-width:512px;
+    min-height:384px;
+    width:1024px;
+    height:768px; 
+    max-width:1536px;
+    max-height:1152px;
+    overflow:scroll;
+    margin:auto;
 }
-
-
 div#marco{
-   width: 100%;
-	margin:auto;
-	position: relative;
-   background-color:red; 
-
-   
-   
- }
-
-.centrar-imagen {
-text-align: center;
-float: left;
+    background-color:blue;
+    width:400%;
+    height:100%;
 }
-
-.centrar-imagen img {
-    width: 100%; 
-    max-width: 768px; 
-    height: auto; 
-   
-  }
-
-
- 
+div.slide1{
+    
+    background-color:green;
+    width:25%;
+    height:100%;
+    float:left;
+    
+}
+div.slide2{
+    
+    background-color:red;
+    width:25%;
+    height:100%;
+    float:left;
+}
+div.slide3{
+    
+    background-color:green;
+    width:25%;
+    height:100%;
+    float:left;
+}
+div.slide4{
+    
+    background-color:red;
+    width:25%;
+    height:100%;
+    float:left;
+}
