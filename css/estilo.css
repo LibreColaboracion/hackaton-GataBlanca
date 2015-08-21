@@ -1,12 +1,25 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-color:white;
+font-family: 'Cabin Sketch';
+font-size: 64px;
+}
+
+
 
 div#titulo{
+  	
   	width: 1024px;
-  	height: 50px;
+  	height: 71px;
   	background-color: #D6D6D6;
   	margin: auto;
   	text-align: center;
   	margin-top: 5px;
   	border-radius:1.5em;
+  	border-style: solid;
+    border-width: 3px;
 
   }
 div#contenedor{
@@ -16,7 +29,7 @@ div#contenedor{
     overflow:hidden;
     margin:auto;
     border-style: solid;
-    border-width: 7px;
+    border-width: 3px;
     
 }
 div.slide1{
