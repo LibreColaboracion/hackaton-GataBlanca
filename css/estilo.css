@@ -3,15 +3,6 @@
 
 
 
-div#titulo{
-  	width: 1024px;
-  	height: 50px;
-  	background-color: #D6D6D6;
-  	margin: 10px auto;
-  	text-align: center;
-  	margin-top: 5px;
-  	border-radius:1.5em;
-}
 div#contenedor{
    background-color: #FFFFFF;
     width:1024px;
@@ -78,7 +69,7 @@ div.gata{
     width:20px;
     height:20px;
     position:absolute;
-	 top:0;
-	 right:0;
+	top:90%;
+	left:20%;
 }
 
