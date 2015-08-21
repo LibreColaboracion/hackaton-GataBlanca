@@ -10,7 +10,7 @@ function tiem(){
     if(ot >= 68){
 	slide.className = ("margen2");
     if(ot >= 104){
-	slide.className = ("marco3");
+	slide.className = ("margen3");
     }
     }
     }else{
