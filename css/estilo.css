@@ -18,7 +18,7 @@ div#contenedor{
 }
 div.slide1{
     
-    background-image: url(../imagenes/slide1.png);
+    background-image: url(../imagenes/slide1.jpg);
     width:25%;
     height:100%;
     float:left;
@@ -26,21 +26,21 @@ div.slide1{
 }
 div.slide2{
     
-    background-image: url(../imagenes/slide2.png);
+    background-image: url(../imagenes/slide2.jpg);
     width:25%;
     height:100%;
     float:left;
 }
 div.slide3{
     
-    background-image: url(../imagenes/slide3.png);
+    background-image: url(../imagenes/slide3.jpg);
     width:25%;
     height:100%;
     float:left;
 }
 div.slide4{
     
-    background-image: url(../imagenes/slide4.png);
+    background-image: url(../imagenes/slide4.jpg);
     width:25%;
     height:100%;
     float:left;
