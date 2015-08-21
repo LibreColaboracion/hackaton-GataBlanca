@@ -9,16 +9,14 @@ div#titulo{
   	border-radius:1.5em;
 
   }
-
 div#contenedor{
    background-color:red;
     width:1024px;
     height:768px;
-    overflow:none;
+    overflow:hidden;
     margin:auto;
     
 }
-
 div.slide1{
     
     background-image: url(../imagenes/slide1.jpg);
@@ -35,7 +33,7 @@ div.slide2{
     float:left;
 }
 div.slide3{
-    
+
     background-image: url(../imagenes/slide3.jpg);
     width:25%;
     height:100%;
@@ -47,19 +45,6 @@ div.slide4{
     width:25%;
     height:100%;
     float:left;
-}
-
-.centrar-imagen {
-text-align: center;
-float: left;
- 
-}
-
-.centrar-imagen img {
-    width: 100%; 
-    max-width: 1024px;
-    height: auto; 
-   
 }
 div.margen{
     width:400%;
@@ -83,8 +68,3 @@ div.margen{
     height: 100%;
     margin-left: -300%;
 }
-
-
-
-
-
