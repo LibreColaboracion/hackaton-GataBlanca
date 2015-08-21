@@ -28,6 +28,7 @@ div.slide4{
     width:25%;
     height:100%;
     float:left;
+    position:relative;
 }
 div.margen{
     width:400%;
@@ -62,6 +63,7 @@ div.gatoflaco{
     background-color: blue;
     position: relative;
 }
+
 img.fondo1{
     width:100%;
     height: auto
@@ -79,3 +81,22 @@ img.gif1{
     width:60%;
     height:auto;  
 }
+
+{
+      position:absolute;
+     top:0;
+     right:0;
+     width:200px;
+    }
+div.colibri{
+    width:80%;
+    height:100%;
+    position:absolute;
+    top:64%;
+    left:87%;
+}
+
+#colibriid{
+    width: 9%;
+}
+
