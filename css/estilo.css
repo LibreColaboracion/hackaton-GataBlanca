@@ -3,7 +3,7 @@ body {
   } 
 
 div#titulo{
-  	width: 800px;
+  	width: 768px;
   	height: 50px;
   	background-color: #D6D6D6;
   	margin: 10px auto;
@@ -15,14 +15,25 @@ div#titulo{
 
 div#marco{
    position: relative;
-   width: 90%;
-  height: 600px; 
-   background-color: red;
-    margin: auto;
-    position: relative;
+   background-color:#E6E6E6;
+   margin: auto;
+   position: relative;
  }
 
+.centrar-imagen {
+text-align: center;
+}
 
+.centrar-imagen img {
+    width: 100%; 
+    max-width: 768px; 
+    height: auto; 
+}
+
+html,body{
+margin:0px;
+height:100%;
+}
 
 
 
