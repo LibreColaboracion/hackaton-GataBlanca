@@ -58,11 +58,6 @@ div.gatablanca{
     left:37%;
 }
 div.gatoflaco{
-    
     background-color: blue;
-    width:150px;
-    height:100px;
-    position:absolute;
-	top:0%;
-	left:0%;
+    position: relative;
 }
