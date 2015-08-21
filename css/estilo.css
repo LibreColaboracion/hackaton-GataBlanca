@@ -20,9 +20,10 @@ div#contenedor{
    background-color:red;
     width:1024px;
     height:768px;
-    overflow:scroll;
+    overflow:none;
     margin:auto;
 }
+
 div.slide1{
     
     background-image: url(../imagenes/slide1.png);
