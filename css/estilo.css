@@ -1,3 +1,6 @@
+@charset "UTF-8";
+/* CSS Document */
+
 
 div#titulo{
   	width: 1024px;
@@ -7,15 +10,16 @@ div#titulo{
   	text-align: center;
   	margin-top: 5px;
   	border-radius:1.5em;
-
-  }
+}
 div#contenedor{
-   background-color:red;
+   background-color: #FFFFFF;
     width:1024px;
     height:768px;
     overflow:hidden;
     margin:auto;
-    
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 20px;
 }
 div.slide1{
     background-image: url(../imagenes/slide1.jpg);
