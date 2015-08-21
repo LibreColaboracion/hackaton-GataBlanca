@@ -24,6 +24,7 @@ div#marco{
    background-color:#E6E6E6;
    margin: auto;
    position: relative;
+   overflow:scroll;
  }
 
 .centrar-imagen {
@@ -34,8 +35,7 @@ text-align: center;
     width: 100%; 
     max-width: 768px; 
     height: auto; 
-
-
+    
   }
 
 
