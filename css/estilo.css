@@ -2,6 +2,7 @@
 /* CSS Document */
 
 
+
 div#titulo{
   	width: 1024px;
   	height: 50px;
@@ -68,4 +69,15 @@ div.margen{
     width: 400%;
     height: 100%;
     margin-left: -300%;
+
+}
+
+div.gata{
+    
+    background-color: red;
+    width:20px;
+    height:20px;
+    position:absolute;
+	 top:0;
+	 right:0;
 }
