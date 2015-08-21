@@ -1,1 +1,32 @@
+body {
+	background-color: #191E21;    
+  } 
+
+div#titulo{
+  	width: 800px;
+  	height: 50px;
+  	background-color: #D6D6D6;
+  	margin: 10px auto;
+  	text-align: center;
+  	margin-top: 5px;
+
+  }
+
+
+div#marco{
+   position: relative;
+   width: 90%;
+  height: 600px; 
+   background-image: url("../imagenes/esena1.png"),
+    margin: auto;
+    position: relative;
+ }
+
+
+
+
+
+  }
+
+
  
