@@ -7,23 +7,8 @@ font-family: 'Cabin Sketch';
 font-size: 64px;
 }
 
-
-
-div#titulo{
-  	
-  	width: 1024px;
-  	height: 71px;
-  	background-color: #D6D6D6;
-  	margin: auto;
-  	text-align: center;
-  	margin-top: 5px;
-  	border-radius:1.5em;
-  	border-style: solid;
-    border-width: 3px;
-
-  }
 div#contenedor{
-   background-color:red;
+   background-color: #FFFFFF;
     width:1024px;
     height:768px;
     overflow:hidden;
