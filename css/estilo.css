@@ -18,6 +18,7 @@ div.slide2{
     width:25%;
     height:100%;
     float:left;
+    position: relative;
 }
 div.slide3{
     width:25%;
@@ -52,16 +53,35 @@ div.margen{
     height: 100%;
     margin-left: -300%;
 }
-div.gatablanca{
+div.gatagifclass{
     width:10%;
+    height:20%;
+    position:absolute;
+    top:1%;
+    left:19%;
+}
+
+}
+
+img#gatagif{
+width: 50%;
+background-color: red;
+
+
+}
+
+
+
+div.gatablanca{
+    width:30%;
     height:20%;
     position:absolute;
     top:8%;
     left:37%;
 }
-div.gatoflaco{
-    background-color: blue;
-    position: relative;
+img#gatablancadosgif{
+width: 50%;
+
 }
 
 img.fondo1{
@@ -80,14 +100,9 @@ img.gif1{
     margin-left:130%;
     width:60%;
     height:auto;  
-}
 
-{
-      position:absolute;
-     top:0;
-     right:0;
-     width:200px;
-    }
+
+}
 div.colibri{
     width:80%;
     height:100%;
