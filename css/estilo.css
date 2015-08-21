@@ -62,6 +62,7 @@ div.gatoflaco{
     background-color: blue;
     position: relative;
 }
+<<<<<<< Updated upstream
 img.fondo1{
     width:100%;
     height: auto
@@ -86,4 +87,15 @@ img.gif1{
      right:0;
      width:200px;
     }
+=======
+div.colibri{
+    width:150%;
+    height:10%;
+    position:absolute;
+    top:66%;
+    left:92%;
+}
+
+
+>>>>>>> Stashed changes
 
