@@ -5,8 +5,8 @@
 
 div#contenedor{
    background-color: #FFFFFF;
-    width:1024px;
-    height:768px;
+    width:76%;
+    height:auto;
     overflow:hidden;
     margin:auto;
     border-style: solid;
@@ -14,27 +14,29 @@ div#contenedor{
     border-radius: 20px;
 }
 div.slide1{
-    background-image: url(../imagenes/slide1.jpg);
     width:25%;
     height:100%;
     float:left;
+
 }
+
+
 div.slide2{
-    background-image: url(../imagenes/slide2.jpg);
+    
     width:25%;
     height:100%;
     float:left;
 }
 div.slide3{
 
-    background-image: url(../imagenes/slide3.jpg);
+    
     width:25%;
     height:100%;
     float:left;
 }
 div.slide4{
     
-    background-image: url(../imagenes/slide4.jpg);
+    
     width:25%;
     height:100%;
     float:left;
@@ -64,13 +66,11 @@ div.margen{
 }
 
 div.gatablanca{
-    
-    background-color: red;
-    width:200px;
-    height:150px;
+     width:20%;
+    height:20%;
     position:absolute;
-	top:70%;
-	left:20%;
+	top:50%;
+	left:50%;
 }
 
 div.gatoflaco{
@@ -79,6 +79,6 @@ div.gatoflaco{
     width:150px;
     height:100px;
     position:absolute;
-	top:65%;
-	left:50%;
+	top:0%;
+	left:0%;
 }
