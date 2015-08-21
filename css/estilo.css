@@ -63,13 +63,22 @@ div.margen{
 
 }
 
-div.gata{
+div.gatablanca{
     
     background-color: red;
-    width:20px;
-    height:20px;
+    width:200px;
+    height:150px;
     position:absolute;
-	top:90%;
+	top:70%;
 	left:20%;
 }
 
+div.gatoflaco{
+    
+    background-color: blue;
+    width:150px;
+    height:100px;
+    position:absolute;
+	top:65%;
+	left:50%;
+}
