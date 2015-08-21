@@ -46,16 +46,6 @@ div.slide4{
     float:left;
 }
 
-
-div#contenedor{
-	width: 100%;
-	margin: 10px auto;
-	position: relative;
-	overflow: scroll;
-	background-color:#DD3333;
-	float: left;
-   	
-}
 .centrar-imagen {
 text-align: center;
 float: left;
