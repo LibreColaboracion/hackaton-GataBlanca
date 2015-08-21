@@ -19,8 +19,8 @@ div#titulo{
   }
 div#contenedor{
    background-color:red;
-    min-width:512px;
-    min-height:384px;
+    min-width:10%;
+    min-height:10%;
     width:1024px;
     height:768px; 
     max-width:1536px;
