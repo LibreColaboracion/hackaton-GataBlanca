@@ -12,6 +12,7 @@ div.slide1{
     width:25%;
     height:100%;
     float:left;
+    position:relative;
 }
 div.slide2{
     width:25%;
