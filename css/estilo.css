@@ -1,6 +1,12 @@
-body {
-	background-color: #191E21;    
-  } 
+}
+
+html,body{
+margin:0px;
+height:100%;
+background-color: #191E21;   
+}
+
+
 
 div#titulo{
   	width: 768px;
@@ -28,13 +34,6 @@ text-align: center;
     width: 100%; 
     max-width: 768px; 
     height: auto; 
-}
-
-html,body{
-margin:0px;
-height:100%;
-}
-
 
 
   }
