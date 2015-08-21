@@ -6,6 +6,7 @@ div#titulo{
   	margin: 10px auto;
   	text-align: center;
   	margin-top: 5px;
+  	border-radius:2em;
 
   }
 
@@ -15,6 +16,7 @@ div#contenedor{
     height:768px;
     overflow:scroll;
     margin:auto;
+    border-radius:2em;
 }
 div.slide1{
     
