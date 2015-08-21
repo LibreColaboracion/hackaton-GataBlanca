@@ -17,7 +17,7 @@ div#marco{
    position: relative;
    width: 90%;
   height: 600px; 
-   background-image: url("../imagenes/esena1.png"),
+   background-color: red;
     margin: auto;
     position: relative;
  }
