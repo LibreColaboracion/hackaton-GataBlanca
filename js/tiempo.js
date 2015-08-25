@@ -17,7 +17,9 @@ function tiem(){
     }    
 }
 function animar(){
-    var gaf=document.getElementById("gatogif");
+    var mau= document.getElementById("gatosiberi");
+    var gaf= document.getElementById("gatogif");
+        mau.play();
 	gaf.setAttribute("src","../imagenes/gatogit2.gif");
-	gaf.className = ("gif2")
+	gaf.className = ("gif2");
 }
