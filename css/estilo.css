@@ -1,5 +1,4 @@
 div#contenedor{
-   background-color: #FFFFFF;
     width:76%;
     height:auto;
     overflow:hidden;
@@ -60,18 +59,9 @@ div.gatagifclass{
     top:1%;
     left:19%;
 }
-
-}
-
 img#gatagif{
 width: 50%;
-background-color: red;
-
-
 }
-
-
-
 div.gatablanca{
     width:30%;
     height:20%;
@@ -81,14 +71,10 @@ div.gatablanca{
 }
 img#gatablancadosgif{
 width: 50%;
-
 }
-
-img.fondo1{
+img.fondo{
     width:100%;
-    height: auto
-    ;
-    
+    height: auto;    
 }
 img.gif1{
     margin-left:-90%;
@@ -99,9 +85,7 @@ img.gif1{
     transition:all 3s;
     margin-left:130%;
     width:60%;
-    height:auto;  
-
-
+    height:auto;
 }
 div.colibri{
     width:80%;
@@ -110,8 +94,6 @@ div.colibri{
     top:64%;
     left:87%;
 }
-
 #colibriid{
     width: 9%;
 }
-
