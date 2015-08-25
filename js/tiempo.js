@@ -19,7 +19,7 @@ function tiem(){
     
 }
 function animar(){
-    var gaf=document.getElementById("gatagif");
+    var gaf=document.getElementById("gatogif");
 	gaf.setAttribute("src","../imagenes/gatogit2.gif");
 	gaf.className = ("gif2")
 }
