@@ -4,11 +4,14 @@
   <title>La Gata Blanca</title>
   <link rel="stylesheet" type="text/css" href="../css/estilo.css">
   <script type="text/javascript" src="../js/tiempo.js"></script>
+    <script type="text/javascript" src="../js/gatopaseo.js"></script>
+
   <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
 	<div id="contenedor">
 		<div id="marco" class="margen">
+<div>
 			<div class="slide1">
 				<div>
 					<img class="fondo" src="../imagenes/slide1.jpg">
@@ -34,8 +37,17 @@
 					<img id="colibriid" class="" src="../imagenes/colibri.gif" onclick="animar()">
 				</div>
 			</div>
+
+			<div class="gatacompleta">
+				<div>
+					<img id="gatacompletaid" class="gatacompletaclass" src="../imagenes/paseo.gif"onclick="animar1()">
+				</div>
+			</div>
+
+		</div>
 		</div>
 	</div>
+	
 <audio id="pista1" src="../audio/blanca.ogg" controls="controls" autoplay="autoplay" ontimeupdate="tiem(this)"> Pista </audio>
 <audio id="gatosiberi" src="../audio/gatosiberiano.ogg"> Maullido </audio>
 </body>

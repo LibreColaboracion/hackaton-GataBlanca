@@ -12,19 +12,19 @@ div.margen{
     height:100%;
 }
 .margen1{
-    transition:all 1s;
+    transition:all 15s;
     width: 400%;
     height: 100%;
     margin-left: -100%;
 }
 .margen2{
-    transition:all 1s;
+    transition:all 15s;
     width: 400%;
     height: 100%;
     margin-left: -200%;
 }
 .margen3{
-    transition:all 1s;
+    transition:all 15s;
     width: 400%;
     height: 100%;
     margin-left: -300%;
@@ -95,4 +95,29 @@ div.colibri{
 }
 #colibriid{
     width: 9%;
+}
+
+
+div.gatacompleta{
+    width:300%;
+    position:absolute;
+   margin-top: 46%;
+
+}
+
+
+#gatacompletaid {
+  position: absolute;
+  left: 5px;
+  width: 100px;
+  height: 100px;
+  
+  
+  animation: move 200s ;
+}
+
+@keyframes move {
+  80% {
+       left: 100%;
+  }
 }
